@@ -1,1 +1,4 @@
-A
+Chinese 01 = A 
+Advace Mathematices = B 
+Introduction to Computer = B 
+China Overview = A
